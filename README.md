@@ -20,13 +20,13 @@ Este projeto foi desenvolvido como parte do módulo básico de Python no curso d
 2. Clone este repositório executando o seguinte comando no terminal:
 
    ```bash
-   git clone 
+   git clone https://github.com/JuandaSilvaa/gerenciador-de-tarefas.git
    ```
 
 3. Navegue até a pasta do projeto:
 
    ```bash
-   cd 
+   cd gerenciador-de-tarefas
    ```
 
 4. Execute o seguinte comando para iniciar o programa:
